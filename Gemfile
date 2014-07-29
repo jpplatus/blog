@@ -7,7 +7,7 @@ group :production do
 	gem 'pg'
 end
 
-group :developement do
+group :development do
 	gem 'sqlite3'
 end	
 # Use SCSS for stylesheets
